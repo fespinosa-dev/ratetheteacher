@@ -1,10 +1,10 @@
 # ratetheteacher
 
-FIXME: Write a one-line description of your library/project.
+A simple webapp that allows anonymous students rate their teachers.
 
 ## Overview
 
-FIXME: Write a paragraph about the library/project and highlight its goals.
+... under construction
 
 ## Setup
 

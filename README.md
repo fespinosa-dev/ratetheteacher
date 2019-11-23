@@ -1,4 +1,4 @@
-# ratetheteacher
+# Rate Teacher
 
 A simple webapp that allows anonymous students rate their teachers.
 
